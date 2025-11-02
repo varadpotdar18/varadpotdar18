@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me  
-- 🌱 Languages : **Html,CSS,Javascript,Tailwind CSS, React, C, Java**  
+- 🌱 Languages : **Html , CSS , Javascript , Bootstrap , Tailwind CSS , React , C , Java**  
 - 💻 **Frontend development + Java programming**   
 - 📫 Reach me at **varadpotdar184550@gmail.com**
 
