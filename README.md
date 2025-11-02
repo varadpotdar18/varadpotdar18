@@ -4,9 +4,8 @@
 ---
 
 ### 🌟 About Me  
-- 🌱 Currently learning **React, Java, Tailwind CSS  
-- 💻 Practicing **Frontend development + Java programming**  
-- 🎯 Goal: Become a strong **Full Stack Developer**  
+- 🌱 Languages : **Html,CSS,Javascript,Tailwind CSS, React, C, Java**  
+- 💻 **Frontend development + Java programming**   
 - 📫 Reach me at **varadpotdar184550@gmail.com**
 
 ---
