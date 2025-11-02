@@ -12,11 +12,11 @@
 
 ## 🧠 Technical Mastery & Expertise
 
-| **Domain**           | **Skills**                                    |
-|----------------------|-----------------------------------------------|
-| **Programming**      | C, Java                                       |
-| **Web Development**  | HTML, CSS, JavaScript, React, Tailwind CSS    |
-| **Databases**        | MySQL, MongoDB                                |
+| **Domain**           | **Skills**                                               |
+|----------------------|----------------------------------------------------------|
+| **Programming**      | C, Java                                                  |
+| **Web Development**  | HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS    |
+| **Databases**        | MySQL, MongoDB                                           |
 
 ---
 
