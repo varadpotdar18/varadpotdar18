@@ -1,13 +1,23 @@
 <h1 align="center">👋 Hi, I'm Varad Sanjay Potdar</h1>
-<h3 align="center">Frontend Developer | Java Learner | DSA Beginner</h3>
+<h3 align="center">Frontend Developer</h3>
 
 ---
 
 ### 🌟 About Me  
-- 🌱 Currently learning **React, Java, Tailwind CSS, and DSA**  
+- 🌱 Currently learning **React, Java, Tailwind CSS  
 - 💻 Practicing **Frontend development + Java programming**  
 - 🎯 Goal: Become a strong **Full Stack Developer**  
 - 📫 Reach me at **varadpotdar184550@gmail.com**
+
+---
+
+## 🧠 Technical Mastery & Expertise
+
+| **Domain**           | **Skills**                                    |
+|----------------------|-----------------------------------------------|
+| **Programming**      | C, Java                                       |
+| **Web Development**  | HTML, CSS, JavaScript, React, Tailwind CSS    |
+| **Databases**        | MySQL, MongoDB                                |
 
 ---
 
