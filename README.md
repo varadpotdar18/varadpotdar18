@@ -41,9 +41,10 @@
 
 ### 🔥 Contribution Streak
 
-<p align="center">
+[<p align="center">
   <img src="https://streak-stats.demolab.com/?user=varadpotdar18&theme=tokyonight" />
-</p>
+</p>](https://streak-stats.demolab.com/
+)
 
 
 ---
