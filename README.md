@@ -17,7 +17,7 @@
 |----------------------|----------------------------------------------------------|
 | **Programming**      | C, Java                                                  |
 | **Web Development**  | HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS    |
-| **Databases**        | MySQL, MongoDB                                           |
+
 
 ---
 
