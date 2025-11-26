@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Varad Sanjay Potdar</strong></h1>
-<h3 align="center">🚀 Frontend Developer & Java Programmer</h3>
+<h3 align="center">🚀 Frontend Developer & Web Developer </h3>
 
 ---
 
