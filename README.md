@@ -6,17 +6,8 @@
 ## 🌟 About Me
 
 - 🌱 Skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, C, Java**  
-- 💻 Passionate about **Frontend Development + Java Programming**  
+- 💻 Passionate about **Frontend Development + Web Development**  
 - 📫 Reach me at **varadpotdar184550@gmail.com**  
-
----
-
-## 🧠 Technical Mastery & Expertise
-
-| **Domain**           | **Skills**                                               |
-|----------------------|----------------------------------------------------------|
-| **Programming**      | C, Java, Javascript                                                  |
-| **Web Development**  | HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS    |
 
 
 ---
