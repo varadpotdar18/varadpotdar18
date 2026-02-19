@@ -15,7 +15,7 @@
 
 | **Domain**           | **Skills**                                               |
 |----------------------|----------------------------------------------------------|
-| **Programming**      | C, Java                                                  |
+| **Programming**      | C, Java, Javascript                                                  |
 | **Web Development**  | HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS    |
 
 
@@ -26,13 +26,17 @@
 ### ✅ Frontend  
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+- Bootstrap 
 - Tailwind CSS  
-- React  
+- React.js
+- Typescript
+- Next.js
 
 ### ✅ Programming Languages  
-- Java  
-- C  
+- Javascript 
+- C
+- Java
 
 
 ---
