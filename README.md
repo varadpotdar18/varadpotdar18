@@ -5,8 +5,7 @@
 
 ## 🌟 About Me
 
-- 🌱 Skilled in **HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Shadcn, Framer Motion, React.js**  
-- 💻 Passionate about **Full Stack Web Development**  
+- 💻 Passionate about **Web Development**  
 - 📫 Reach me at **varadpotdar184550@gmail.com**  
 
 
