@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm <strong>Varad Sanjay Potdar</strong></h1>
-<h3 align="center">🚀 Frontend Developer & Web Developer </h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 ---
 
 ## 🌟 About Me
 
-- 🌱 Skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, C, Java**  
-- 💻 Passionate about **Frontend Development + Web Development**  
+- 🌱 Skilled in **HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Shadcn, Framer Motion, React.js**  
+- 💻 Passionate about **Full Stack Web Development**  
 - 📫 Reach me at **varadpotdar184550@gmail.com**  
 
 
@@ -15,18 +15,28 @@
 ## 🚀 Skills & Technologies
 
 ### ✅ Frontend  
-- HTML  
-- CSS  
+- HTML5  
+- CSS3  
 - JavaScript
 - Bootstrap 
-- Tailwind CSS  
+- TailwindCSS
+- Shadcn  
 - React.js
+- Framer Motion
 - Typescript
 - Next.js
 
+### ✅ Back-end
+- Node.js
+- Express.js
+
+### ✅ Databases
+- MongoDB
+- MySQL/PostgreSQL
+
 ### ✅ Programming Languages  
 - Javascript 
-- C
+- Python
 - Java
 
 
